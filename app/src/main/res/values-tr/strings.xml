@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reading</string>
+    <string name="reading">Okuma</string>
+    <string name="cardText">Awesome - we are pulling in your data automagically</string>
+    <string name="chip1">Hafta: 01</string>
+    <string name="chip2">Hafta: 02</string>
+    <string name="chip3">Hafta: 03</string>
+    <string name="chip4">Hafta: 04</string>
+    <string name="sessionText">Bölüm Listesi</string>
+    <string name="course1">Kursa Giriş</string>
+    <string name="videoText">Video 2 dk</string>
+    <string name="course2">Temel Yapı Taşları</string>
+    <string name="practiseText">Pratik 4 dk</string>
+
+
+</resources>
