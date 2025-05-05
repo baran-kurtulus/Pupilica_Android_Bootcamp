@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberAdder</string>
+    <string name="MainText">Calculator</string>
+</resources>
